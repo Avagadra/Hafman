@@ -1,0 +1,16 @@
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.csprojAssemblyReference.cache
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.AssemblyInfoInputs.cache
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.AssemblyInfo.cs
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.csproj.CoreCompileInputs.cache
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.exe
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.deps.json
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.runtimeconfig.json
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.runtimeconfig.dev.json
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.dll
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\ref\Hafman.dll
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\bin\Debug\net5.0\Hafman.pdb
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.dll
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\ref\Hafman.dll
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.pdb
+C:\Users\DearKetrin\source\repos\Hafman\Hafman\obj\Debug\net5.0\Hafman.genruntimeconfig.cache
